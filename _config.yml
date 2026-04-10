@@ -104,7 +104,7 @@ content:
   - title: Education
     layout: list
     content:
-      - title: "Record Factory (레코드 팩토리)"
+      - title: "Record Factory"
         sub_title: "Interactive Sound Design"
         caption: "2018.12 - 2019.06"
         description: |
