@@ -99,7 +99,7 @@ content:
   - title: Portfolio
     layout: text
     content: |
-      - [**포트폴리오 링크 (클릭 시 Youtube 재생목록으로 연결됩니다)**](https://www.youtube.com/watch?v=lfAWEHp0Tv8&list=PLW-k5wEHzIIoToIwG--MnzidOgRpQMyNE)
+      - [**포트폴리오 링크 (클릭 시 Youtube 재생목록으로 연결됩니다)**](https://www.youtube.com/playlist?list=PLW-k5wEHzIIoToIwG--MnzidOgRpQMyNE)
 
   - title: Education
     layout: list
