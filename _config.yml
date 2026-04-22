@@ -96,6 +96,12 @@ content:
       **Voice Production**
       - Recording, Voice Re-Design, Voice Asset Management
 
+  - title: Portfolio
+    layout: text
+    content: |
+      - [**포트폴리오 링크 (클릭 시 Youtube 재생목록으로 연결됩니다)**](https://www.youtube.com/playlist?list=PLW-k5wEHzIIoToIwG--MnzidOgRpQMyNE)
+
+
   - title: Education
     layout: list
     content:
